@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storybook Animal Illustration"
+  short_description: "Whimsical dry-brush animal picture-book style"
+  default_prompt: "Use $storybook-animal-illustration to create a whimsical anthropomorphic animal illustration prompt."
