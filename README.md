@@ -1,7 +1,7 @@
----
+‘’‘
 name: storybook-animal-illustration
 description: Create whimsical picture-book style anthropomorphic animal illustrations and image prompts inspired by the user's reference set: loose dry-brush texture, scratchy expressive linework, soft matte backgrounds, lanky or squashy animal characters in vintage clothing, humorous awkward poses, and muted warm color palettes. Use when the user asks for illustrations, image prompts, character designs, or visual style matching this hand-painted storybook animal look.
----
+’‘’
 
 # Storybook Animal Illustration
 
